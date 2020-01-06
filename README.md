@@ -1,13 +1,16 @@
-# Unity2019114f1-2D-Template
+# WebGL-TestingRepoAndHosting-VarDocs
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10; 
+Unity Version: 2019.1.14f1; 
+Visual Studio Version: Microsoft Visual Studio Community 2017, Version 15.9.17;
+Scripting Runtime Version: 4.X;
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960x600 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +28,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by smeerws
